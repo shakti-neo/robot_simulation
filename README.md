@@ -3,7 +3,7 @@
 ### Installation
 ```sh
 $ git clone https://github.com/shakti-neo/robot_simulation.git
-$ cd robot_assignnment
+$ cd robot_simulation
 $ bundle install
 ```
 
