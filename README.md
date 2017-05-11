@@ -2,7 +2,7 @@
 
 ### Installation
 ```sh
-$ git clone <Git url>
+$ git clone https://github.com/shakti-neo/robot_simulation.git
 $ cd robot_assignnment
 $ bundle install
 ```
